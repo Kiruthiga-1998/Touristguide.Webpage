@@ -1,0 +1,326 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav img{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20%;
+}
+.sec-1 a{
+    color: red;
+    margin-left: 48%;
+    text-decoration: none;
+
+}
+.sec-1 h2{
+    color: black;
+    text-align: center;
+    margin-top: 25px;
+}
+.sec-1 h5{
+    color: rgb(100, 93, 93);
+    text-align: center;
+    margin-top: 5px;
+}
+.subsec-1{
+    margin-left: 20%;
+    margin-top: 25px;
+}
+.sec-3{
+    margin-left: 270px;
+    font-size: 20px;
+}
+.subsec-2{
+    margin-top: 15px;
+}
+.subsec-3{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-4
+{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.sec-3 a{
+    color: rgb(211, 10, 117);
+}
+.subsec-5{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-10{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.subsec-6{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-7{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-8{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-9{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.sec-4{
+    font-size: 20px;
+}
+.subsec-11{
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 20%;
+}
+.subsec-12{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-13{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 20%;
+}
+.subsec-14{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-15{
+    margin-top: 15px;
+    margin-left: 20%;
+}
+.subsec-16{
+    margin-top: 15px;
+}
+.subsec-16 ul li{
+    margin-left: 23%;
+    line-height: 1.5;
+}
+.subsec-17{
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20%;
+}
+.subsec-18{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-19{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-20{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.sec-5{
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.subsec-22{
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.subsec-23{
+    font-style: italic;
+    line-height: 1.5;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.subsec-24{
+    margin-top: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.subsec-25{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.subsec-26{
+    margin-top: 15px;
+    font-size: 20px;
+}
+.subsec-27{
+    margin-top: 15px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.subsec-28{
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.subsec-29{
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.subsec-30{
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.sec-6{
+    margin-left: 20%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.sec-6 a{
+    color: rgb(211, 10, 117);
+}
+.subsec-32{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-33{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-34{
+    margin-top: 15px;
+    line-height: 1.5;
+    font-style: italic;
+}
+.subsec-35{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.subsec-36{
+    margin-top: 15px;
+    font-weight: bold;
+}
+.subsec-37{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.sec-7{
+    font-size: 20px;
+}
+.sec-7 a{
+    color: rgb(211, 10, 117);
+}
+.subsec-38{
+    margin-top: 15px;
+    margin-left: 20%;
+}
+.subsec-39{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-40{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.subsec-41 li{
+    margin-top: 15px;
+    margin-left: 23%;
+}
+.subsec-42{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+}
+.sec-8{
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.sec-8 a{
+    color: rgb(211, 10, 117);
+}
+.subsec-43{
+    margin-top: 15px;
+    line-height: 1.5;
+    margin-left: 20%;
+    font-size: 20px;
+}
+.subsec-44{
+    text-align: center;
+    color: rgb(153, 15, 80);
+    text-decoration: underline;
+    font-weight: bold;
+}
+.subsec-45{
+    margin-left: 20%;
+    margin-top: 15px;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.sec-9 a{
+    color: rgb(211, 10, 117);
+}
+.subsec-46{
+    margin-top: 15px;
+    margin-left: 20%;
+}
+.subsec-47{
+    margin-top: 15px;
+    margin-left: 20%;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.subsec-48{
+    margin-left: 20%;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(153, 15, 80);
+}
+.subsec-49{
+    margin-left: 20%;
+    font-style: italic;
+    font-size: 20px;
+}
+.subsec-50{
+    margin-left: 20%;
+    font-size: 30px;
+    margin-top: 10px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 150px;
+    margin-top: 20px;
+}
+.social-link i{
+    font-size: 40px;
+    margin-right: 20px;
+}
+.img{
+    display: flex;
+}
+.sec-10{
+    margin-left: 20%;
+    margin-top: 8px;
+}
+.sec-11 a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+}
+.img a{
+    color: white;
+}
+
